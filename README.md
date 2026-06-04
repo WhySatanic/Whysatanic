@@ -52,23 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WhySatanic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhySatanic&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=WhySatanic&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
   <sub>⚡ <i>"Bad data in, bad decisions out — build the pipeline right from the start."</i></sub>
