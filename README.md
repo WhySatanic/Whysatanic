@@ -15,8 +15,7 @@
 ## 🧑‍💻 About
 
 Data Engineer focused on building **reliable, scalable data infrastructure** — from raw ingestion to analytics-ready marts.
-Comfortable with both **batch** and **real-time streaming** patterns. Docker-first mindset: reproducible environments are non-negotiable.
-
+Comfortable with both **batch** and **real-time streaming** patterns.
 ---
 
 ## 🛠️ Tech Stack
