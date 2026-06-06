@@ -1,6 +1,7 @@
 <div align="center">
 
-# Vladlen
+# Data Engineer focused on building **reliable, scalable data infrastructure** — from raw ingestion to analytics-ready marts.
+Comfortable with both **batch** and **real-time streaming** patterns. Docker-first mindset: reproducible environments are non-negotiable.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=017CEE&center=true&vCenter=true&width=700&lines=Data+Engineer+%F0%9F%9A%80;Batch+%E2%80%A2+Streaming+%E2%80%A2+SQL;Building+Scalable+Data+Pipelines;Airflow+%E2%80%A2+Spark+%E2%80%A2+Kafka+%E2%80%A2+Trino" alt="Typing animation" />
 
@@ -9,15 +10,6 @@
 [![Location](https://img.shields.io/badge/Saint_Petersburg,_Russia-gray?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
-
----
-
-## 🧑‍💻 About
-
-Data Engineer focused on building **reliable, scalable data infrastructure** — from raw ingestion to analytics-ready marts.
-Comfortable with both **batch** and **real-time streaming** patterns. Docker-first mindset: reproducible environments are non-negotiable.
-
----
 
 ## 🛠️ Tech Stack
 
