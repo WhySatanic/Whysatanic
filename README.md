@@ -48,7 +48,3 @@ Comfortable with both **batch** and **real-time streaming** patterns.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
-
-<div align="center">
-  <sub><i>"Bad data in, bad decisions out — build the pipeline right from the start."</i></sub>
-</div>
